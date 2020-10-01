@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554755336 source:c:\users\vandersonsantos\desktop\poli 2019\mac\ep1\subproblema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
